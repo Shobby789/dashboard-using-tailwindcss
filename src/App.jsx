@@ -11,7 +11,7 @@ function App() {
       <div className="sidebar w-1/5 h-screen fixed top-0 left-0 bg-black">
         <Navbar />
       </div>
-      <div className="min-h-screen bg-black absolute right-0  w-4/5 py-6 pr-3">
+      <div className="min-h-screen bg-black absolute right-0 w-4/5 py-6 pr-3 flex items-center justify-center">
         <Dashboard />
       </div>
     </div>
